@@ -13,3 +13,6 @@ New-UDDashboard -Title 'UDReadTime' -Content {
 }
 }
 ```
+## Displays
+
+![Demo Dashboard](https://raw.githubusercontent.com/psDevUK/UDReadTime/main/udreadtime.png)
